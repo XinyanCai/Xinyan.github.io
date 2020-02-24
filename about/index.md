@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
 ## Educational Experience
-Master of Science in Business Analytics (A STEM-Certified Program) in SIMON BUSINESS SCHOOL, University of Rochester
+**Master of Science in Business Analytics (A STEM-Certified Program) in SIMON BUSINESS SCHOOL, University of Rochester**
 * July 2019 - December 2020 
 * Merit Scholarship recipient
 * Clubs: Simon Pricing Club
