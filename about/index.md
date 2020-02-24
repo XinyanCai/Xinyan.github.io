@@ -6,16 +6,17 @@ date: 2016-03-21
 comments: false
 ---
 ## Educational Experience
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+# Master of Science in Business Analytics (A STEM-Certified Program) in SIMON BUSINESS SCHOOL, University of Rochester
+* July 2019 - December 2020 
+* Merit Scholarship recipient
+* Clubs: Simon Pricing Club
+* Pricing Track: Pricing Policies; Pricing Analytics
+
+# Bachelor of Science in Economics and Finance in XI’AN JIAOTONG-LIVERPOOL UNIVERSITY
+* September 2015 - July 2019
+* Social Practice Award
+* University Academic Achievement Award (10%)
+* University Academic Excellence Award (5%)
 
 ## Interests & Volunteering Experience
 
