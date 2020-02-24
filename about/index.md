@@ -18,9 +18,17 @@ Bachelor of Science in Economics and Finance in XI’AN JIAOTONG-LIVERPOOL UNIVE
 * University Academic Achievement Award (10%)
 * University Academic Excellence Award (5%)
 
-## Interests & Volunteering Experience
+## Assets & Interests
+Assets
+* Technical skills: Python, MS Office, R, SQL, Tableau
+* Merit Scholarship recipient
+* Languages: Chinese (native), English (fluent)
 
-{% capture images %}
-    https://m.momomall.com.tw/m/s/100114/1001140003192/%E3%80%8A%E4%B8%8D%E5%9B%89%E5%94%86%E3%80%8BDIY%E6%89%8B%E5%B7%A5%E6%88%BF%E5%AD%90-%E7%B4%80%E5%BF%B5%E7%A6%AE%E7%89%A9%E8%81%96%E8%AA%95%E5%BF%AB%E6%A8%82%EF%BC%88%E4%B8%8D%E6%8C%91%E8%89%B2%E6%AC%BE%EF%BC%89%E3%80%90A400788%E3%80%91
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
+Interests
+* Singing (hardcore karaoke fan), handcrafts, chess, piano, detective novels
+
+Volunteering Experience
+* Team Lead in Universtiy Association AIESEC                                                                                 
+* March 2016 - March 2017
+* Joined volunteers from 20+ countries attending a two-month education and culture exchange program in Malaysia 
+* Attended a WWF summit focusing on global efforts for sustainable development 
