@@ -5,7 +5,6 @@ tags: [about, Xinyan.Cai, theme, moon]
 date: 2016-03-21
 comments: false
 ---
-
 ## Educational Experience
 * Minimal, you can focus on your content
 * Responsive
