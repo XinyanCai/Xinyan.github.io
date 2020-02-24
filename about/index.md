@@ -6,13 +6,13 @@ date: 2016-03-21
 comments: false
 ---
 ## Educational Experience
-# Master of Science in Business Analytics (A STEM-Certified Program) in SIMON BUSINESS SCHOOL, University of Rochester
+Master of Science in Business Analytics (A STEM-Certified Program) in SIMON BUSINESS SCHOOL, University of Rochester
 * July 2019 - December 2020 
 * Merit Scholarship recipient
 * Clubs: Simon Pricing Club
 * Pricing Track: Pricing Policies; Pricing Analytics
 
-# Bachelor of Science in Economics and Finance in XI’AN JIAOTONG-LIVERPOOL UNIVERSITY
+Bachelor of Science in Economics and Finance in XI’AN JIAOTONG-LIVERPOOL UNIVERSITY
 * September 2015 - July 2019
 * Social Practice Award
 * University Academic Achievement Award (10%)
