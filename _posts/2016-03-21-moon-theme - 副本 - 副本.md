@@ -2,7 +2,7 @@
 layout: post
 title:  "Social Media Study Case 2"
 date:   2019-12-17
-excerpt: "A case study using R to find the potential trend of food"
+excerpt: "Topic Modeling using R to find the potential trend of food"
 project: true
 tag:
 - Social Media 
