@@ -16,7 +16,8 @@ comments: true
 ## Purpose
 * Develop a predictive model and a decision support system (DSS) that evaluates the risk of Home Equity Line of Credit (HELOC) applications.
       
-      
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=430 height=86 src="http://user.qzone.qq.com/237326105/photo/V10MU7Rq18V88Z/NRMAVjR0R1U4bERyMmhWVjZUVnJJWAcAcGhvdG9neg!!/"></iframe>
+    
 ## Data Collection & Cleaning
 * Collect Data from the [FICO](https://community.fico.com/s/explainable-machine-learning-challenge?tabset-3158a=2)
 * Utilize `Pandas` to clean data
