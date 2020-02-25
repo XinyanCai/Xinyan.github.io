@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
+title:  "Machine Learning Challenge"
 date:   2016-04-06
-excerpt: "Minimal, one column Jekyll theme for your blog."
+excerpt: "An efficient approach using python to predict default risk"
 project: true
 tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
+- credit 
+- risk
+- python
+- machine learning
 comments: true
 ---
 
