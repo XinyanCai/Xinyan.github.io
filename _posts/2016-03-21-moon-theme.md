@@ -13,26 +13,21 @@ comments: true
 ---
 
     
-**<center><b>Purpose</b>  develop a predictive model and a decision support system to evaluates the risk of Home Equity Line of Credit (HELOC)</center>**
+## Purpose
+* Develop a predictive model and a decision support system (DSS) that evaluates the risk of Home Equity Line of Credit (HELOC) applications.
       
       
-## Data Collection
+## Data Collection & Cleansing
 * Collect Data from the [FICO](https://community.fico.com/s/explainable-machinelearning-challenge)
-* Edit `_config.yml` file.
-* Remove sample posts from `_posts` folder and add yours.
-* Edit `index.md` file in `about` folder.
-* Change repo name to `YourUserName.github.io`    
+* Utilize `Pandas` to clean data
+* Remove Column with more than 90% omitted data.
+* Modify other omitted data by Imputer strategy `mean`.
+* Divide whole data frame into `Train_set` & `Test_set`
      
-That's all.
-
-## Preview
-
 {% capture images %}
-	https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-	https://cloud.githubusercontent.com/assets/754514/14509717/61ad05ae-01d6-11e6-85ae-5a817dd8763b.png
-	https://cloud.githubusercontent.com/assets/754514/14509714/61a89708-01d6-11e6-8fcd-74b002a060df.png
+	http://r.photo.store.qq.com/psc?/V10MU7Rq18V88Z/zxjvJoYbvlQPq4wKS16LamFgsLsCkC5MtzbhF8aOBEUYy7h3t6o6JFcHwoOXvX5YyZWNGr1eicRyDyZEHuHHOVJ7WqLCGhw2lXkV7lQJwng!/r
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}
+{% include gallery images=images caption="Screenshots from Xinyan Cai" cols=3 %}
 
 ---
 
