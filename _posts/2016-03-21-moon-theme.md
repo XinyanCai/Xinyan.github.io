@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Machine Learning Challenge"
-date:   2016-04-06
+date:   2019-12-20
 excerpt: "An efficient approach using python to predict default risk"
 project: true
 tag:
