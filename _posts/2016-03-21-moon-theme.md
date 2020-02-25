@@ -27,7 +27,18 @@ comments: true
 <img src="http://r.photo.store.qq.com/psc?/V10MU7Rq18V88Z/zxjvJoYbvlQPq4wKS16LamFgsLsCkC5MtzbhF8aOBEUYy7h3t6o6JFcHwoOXvX5YyZWNGr1eicRyDyZEHuHHOVJ7WqLCGhw2lXkV7lQJwng!/r" width = "300" height = "200">
 
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.      
+## Default Risk Prediction Using Machine Learning Algorithms
+**Five Algorithms**
+* Random Forest
+* Linear Model
+* Support Vector Machine
+* Bagging
+* Boosting
+* Neural Network
+
+<img src="http://r.photo.store.qq.com/psc?/V10MU7Rq18V88Z/zxjvJoYbvlQPq4wKS16LaneuZPDGZK30pGlNOUp3aUPppeQroPWWusjsbhPolR7fXjVRxJMZvgB5MaipDJ21ZlwFmERQY94sc2SS9WFNnZg!/r" width = "300" height = "200">
+<img src="http://r.photo.store.qq.com/psc?/V10MU7Rq18V88Z/zxjvJoYbvlQPq4wKS16Lav.FXSYSziyvcBnUCZ7xpC9FU*sREf1fy9VfICvHKJu3ka7D5I0hL.uqVmnR2U2iKtzTo4LzKErSL0be8lhPRTc!/r" width = "300" height = "200">
+<img src="http://r.photo.store.qq.com/psc?/V10MU7Rq18V88Z/zxjvJoYbvlQPq4wKS16LanBHooZI2hpcyrtoTEQTNyVN9KqWBdNWsKhDgw9qE4LsQyGj5AnKuHl61RV4rzL3Aq1xLwwh.DUG2j8WV8yBLK4!/r" width = "300" height = "200">
 
 ## Site Setup
 A quick checklist of the files you’ll want to edit to get up and running.    
