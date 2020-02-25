@@ -18,7 +18,7 @@ comments: true
       
       
 ## Data Collection & Cleaning
-* Collect Data from the [FICO](https://community.fico.com/s/explainable-machinelearning-challenge)
+* Collect Data from the [FICO](https://community.fico.com/s/explainable-machine-learning-challenge?tabset-3158a=2)
 * Utilize `Pandas` to clean data
 * Remove Column with more than 90% omitted data
 * Modify other omitted data by Imputer strategy `mean`
