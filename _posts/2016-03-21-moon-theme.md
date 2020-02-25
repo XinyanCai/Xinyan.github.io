@@ -23,7 +23,9 @@ comments: true
 * Remove Column with more than 90% omitted data.
 * Modify other omitted data by Imputer strategy `mean`.
 * Divide whole data frame into `Train_set` & `Test_set`
-     
+
+<img src="http://r.photo.store.qq.com/psc?/V10MU7Rq18V88Z/zxjvJoYbvlQPq4wKS16LamFgsLsCkC5MtzbhF8aOBEUYy7h3t6o6JFcHwoOXvX5YyZWNGr1eicRyDyZEHuHHOVJ7WqLCGhw2lXkV7lQJwng!/r" width = "300" height = "200"  align=center />
+
 {% capture images %}
 	http://r.photo.store.qq.com/psc?/V10MU7Rq18V88Z/zxjvJoYbvlQPq4wKS16LamFgsLsCkC5MtzbhF8aOBEUYy7h3t6o6JFcHwoOXvX5YyZWNGr1eicRyDyZEHuHHOVJ7WqLCGhw2lXkV7lQJwng!/r
 {% endcapture %}
