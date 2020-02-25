@@ -17,7 +17,7 @@ comments: true
 * Develop a predictive model and a decision support system (DSS) that evaluates the risk of Home Equity Line of Credit (HELOC) applications.
       
       
-## Data Collection & Cleansing
+## Data Collection & Cleaning
 * Collect Data from the [FICO](https://community.fico.com/s/explainable-machinelearning-challenge)
 * Utilize `Pandas` to clean data
 * Remove Column with more than 90% omitted data
