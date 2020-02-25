@@ -40,37 +40,18 @@ comments: true
 <img src="http://r.photo.store.qq.com/psc?/V10MU7Rq18V88Z/zxjvJoYbvlQPq4wKS16Lav.FXSYSziyvcBnUCZ7xpC9FU*sREf1fy9VfICvHKJu3ka7D5I0hL.uqVmnR2U2iKtzTo4LzKErSL0be8lhPRTc!/r" width = "300" height = "300">
 <img src="http://r.photo.store.qq.com/psc?/V10MU7Rq18V88Z/zxjvJoYbvlQPq4wKS16LanBHooZI2hpcyrtoTEQTNyVN9KqWBdNWsKhDgw9qE4LsQyGj5AnKuHl61RV4rzL3Aq1xLwwh.DUG2j8WV8yBLK4!/r" width = "300" height = "300">
 
-## Site Setup
-A quick checklist of the files you’ll want to edit to get up and running.    
+## Interface Build
+* A user friendly platform to enable bankers to better access each customer's default risk
+* Weakness: Long Running Time
 
-### Site Wide Configuration
-`_config.yml` is your friend. Open it up and personalize it. Most variables are self explanatory but here's an explanation of each if needed:
+<img src="http://r.photo.store.qq.com/psc?/V10MU7Rq18V88Z/zxjvJoYbvlQPq4wKS16Laorq5XcnI8cTO5lJ1*fVFpCXh*xvtA9orTDXvLE8MdwKwGxCQ2Pa2ig.BsXpNpDBSINIkrwaMPGU6.XF*oq4Z1g!/r" width = "300" height = "200">
+<img src="http://r.photo.store.qq.com/psc?/V10MU7Rq18V88Z/zxjvJoYbvlQPq4wKS16LahFJLzqghaqRFMe6XUsoITxQRjIexwZQ6B5op42Ch0np2MFemv1SxIPj5tqdFKfgrRonnAkF.2ZliDA3TMi8*eY!/r" width = "300" height = "200">
 
-#### title
 
-The title of your site... shocker!
-
-Example `title: My Awesome Site`
-
-#### bio
-
-The description to show on your homepage.
-
-#### description
-
-The description to use for meta tags and navigation menu.
-
-#### url
-
-Used to generate absolute urls in `sitemap.xml`, `feed.xml`, and for generating canonical URLs in `<head>`. When developing locally either comment this out or use something like `http://localhost:4000` so all assets load properly. *Don't include a trailing `/`*.
-
-Examples:
+### Specific Content in GitHub
 
 {% highlight yaml %}
-url: http://taylantatli.me/Moon
-url: http://localhost:4000
-url: //cooldude.github.io
-url:
+url: https://github.com/XinyanCai?tab=repositories
 {% endhighlight %}
 
 #### reading_time
