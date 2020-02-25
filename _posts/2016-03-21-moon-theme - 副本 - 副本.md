@@ -21,7 +21,7 @@ In this case study, In this report, the potential trend of food was found by Fac
 There is a big dataset includes a txt file of ingredient words and Facebook post in every year from 2011 to 2015, 5 years in total.
 
 ## Methodology
-Firstly, I used ingredient.txt as the target list to extract various words inside the data(Facebook posts) and integrated them into a data frame. 
+Firstly, I used `ingredient.txt` as the target list to extract various words inside the data (Facebook posts) and integrated them into a data frame. 
 
 <img src="http://r.photo.store.qq.com/psc?/V10MU7Rq18V88Z/zxjvJoYbvlQPq4wKS16LajthsWAtRh*OVE*STb8ArKLQfowZrdG.cnAhImnAwkrG9DehWr5eSzHI5Ta8t9N8RItDYetvH2QgO.Q6XhVaSJU!/r" width = "300" height = "200">
 
