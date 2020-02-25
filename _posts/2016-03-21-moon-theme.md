@@ -50,5 +50,5 @@ comments: true
 
 ### Specific Content in GitHub
 
-url: https://github.com/XinyanCai?tab=repositories
+url: <https://github.com/XinyanCai?tab=repositories>
 
