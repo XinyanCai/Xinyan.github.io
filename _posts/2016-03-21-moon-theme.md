@@ -36,9 +36,9 @@ comments: true
 * Boosting
 * Neural Network
 
-<img src="http://r.photo.store.qq.com/psc?/V10MU7Rq18V88Z/zxjvJoYbvlQPq4wKS16LaneuZPDGZK30pGlNOUp3aUPppeQroPWWusjsbhPolR7fXjVRxJMZvgB5MaipDJ21ZlwFmERQY94sc2SS9WFNnZg!/r" width = "300" height = "200">
-<img src="http://r.photo.store.qq.com/psc?/V10MU7Rq18V88Z/zxjvJoYbvlQPq4wKS16Lav.FXSYSziyvcBnUCZ7xpC9FU*sREf1fy9VfICvHKJu3ka7D5I0hL.uqVmnR2U2iKtzTo4LzKErSL0be8lhPRTc!/r" width = "300" height = "200">
-<img src="http://r.photo.store.qq.com/psc?/V10MU7Rq18V88Z/zxjvJoYbvlQPq4wKS16LanBHooZI2hpcyrtoTEQTNyVN9KqWBdNWsKhDgw9qE4LsQyGj5AnKuHl61RV4rzL3Aq1xLwwh.DUG2j8WV8yBLK4!/r" width = "300" height = "200">
+<img src="http://r.photo.store.qq.com/psc?/V10MU7Rq18V88Z/zxjvJoYbvlQPq4wKS16LaneuZPDGZK30pGlNOUp3aUPppeQroPWWusjsbhPolR7fXjVRxJMZvgB5MaipDJ21ZlwFmERQY94sc2SS9WFNnZg!/r" width = "300" height = "300">
+<img src="http://r.photo.store.qq.com/psc?/V10MU7Rq18V88Z/zxjvJoYbvlQPq4wKS16Lav.FXSYSziyvcBnUCZ7xpC9FU*sREf1fy9VfICvHKJu3ka7D5I0hL.uqVmnR2U2iKtzTo4LzKErSL0be8lhPRTc!/r" width = "300" height = "300">
+<img src="http://r.photo.store.qq.com/psc?/V10MU7Rq18V88Z/zxjvJoYbvlQPq4wKS16LanBHooZI2hpcyrtoTEQTNyVN9KqWBdNWsKhDgw9qE4LsQyGj5AnKuHl61RV4rzL3Aq1xLwwh.DUG2j8WV8yBLK4!/r" width = "300" height = "300">
 
 ## Site Setup
 A quick checklist of the files you’ll want to edit to get up and running.    
