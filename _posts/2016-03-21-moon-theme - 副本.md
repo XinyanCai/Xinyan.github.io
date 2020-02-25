@@ -13,8 +13,8 @@ comments: true
 ---
 
     
-## Purpose
-* Develop a predictive model and a decision support system (DSS) that evaluates the risk of Home Equity Line of Credit (HELOC) applications.
+## Introduction
+In this case study, the types of Twitter posts incorporating noncomplaint and complaint were classified using the featured negative words. The judgment of Twitter posts types could help the airplane companies to identify customers’ attitudes towards their services, therefore leading to service improvements. The whole investigation aims to find noncomplaint twitter posts.  
       
       
 ## Data Collection & Cleaning
