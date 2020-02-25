@@ -2,7 +2,7 @@
 layout: post
 title:  "Social Media Study Case 1"
 date:   2019-12-23
-excerpt: "A case study using R to find noncomplaint twitter posts"
+excerpt: "Sentiment Analysis using R to detect non-complaint twitter posts"
 project: true
 tag:
 - Social Media 
