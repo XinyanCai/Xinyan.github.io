@@ -26,19 +26,7 @@ comments: true
 
 <img src="http://r.photo.store.qq.com/psc?/V10MU7Rq18V88Z/zxjvJoYbvlQPq4wKS16LamFgsLsCkC5MtzbhF8aOBEUYy7h3t6o6JFcHwoOXvX5YyZWNGr1eicRyDyZEHuHHOVJ7WqLCGhw2lXkV7lQJwng!/r" width = "300" height = "200">
 
-{% capture images %}
-	http://r.photo.store.qq.com/psc?/V10MU7Rq18V88Z/zxjvJoYbvlQPq4wKS16LamFgsLsCkC5MtzbhF8aOBEUYy7h3t6o6JFcHwoOXvX5YyZWNGr1eicRyDyZEHuHHOVJ7WqLCGhw2lXkV7lQJwng!/r
-{% endcapture %}
-{% include gallery images=images caption="Screenshots from Xinyan Cai" cols=3 %}
 
----
-
-{% capture images %}
-	https://cloud.githubusercontent.com/assets/754514/14509718/61b09a20-01d6-11e6-8da1-4202ae4d83cd.png
-	https://cloud.githubusercontent.com/assets/754514/14509715/61aa9d00-01d6-11e6-81a6-c6837edf2e84.png
-{% endcapture %}
-{% include gallery images=images caption="Moon Theme on Small Screen Size" cols=2 %}      
-      
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.      
 
 ## Site Setup
