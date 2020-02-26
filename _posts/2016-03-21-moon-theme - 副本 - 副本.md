@@ -61,5 +61,5 @@ Although the figures can accurately show the trend of different words in general
 
 ## Specific Content in GitHub
 
-url: <https://github.com/XinyanCai?tab=repositories>
+url: <https://github.com/XinyanCai/Social-Media-Study-Case-2>
 
