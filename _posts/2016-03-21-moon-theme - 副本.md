@@ -55,5 +55,5 @@ Although the model can accurately classify the types of twitter posts. There are
 
 ## Specific Content in GitHub
 
-url: <https://github.com/XinyanCai/Social-Media-Study-Case-1>
+url: <https://github.com/XinyanCai/Social-Media-Study-Case->
 
